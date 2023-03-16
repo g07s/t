@@ -1,0 +1,126 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/f/ff/ff4/ff4f3975adf4/zm800-0.png" group-title="高清广州",广州新闻 HD 1
+http://fxhack.f3322.org:8000/udp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/f/ff/ff4/ff4f3975adf4/zm800-0.png" group-title="高清广州",广州新闻 HD 2
+http://ct.whosayssowhat.top:4022/udp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/f/ff/ff4/ff4f3975adf4/zm800-0.png" group-title="高清广州",广州新闻 3
+https://justsometime.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/f/ff/ff4/ff4f3975adf4/zm800-0.png" group-title="高清广州",广州新闻 4
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/f/ff/ff4/ff4f3975adf4/zm800-0.png" group-title="高清广州",广州新闻 5
+http://9.zhxinda.xyz/gz.php?id=xinwen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/c/c4/c43/c43f402180a9/zm800-0.png" group-title="高清广州",广州综合 HD 1
+http://fxhack.f3322.org:8000/udp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/c/c4/c43/c43f402180a9/zm800-0.png" group-title="高清广州",广州综合 HD 2
+http://ct.whosayssowhat.top:4022/udp/239.253.43.71:5146http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/c/c4/c43/c43f402180a9/zm800-0.png" group-title="高清广州",广州综合 3
+http://9.zhxinda.xyz/gz.php?id=zhonghe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgls.tvsou.com/zm/c/c4/c43/c43f402180a9/zm800-0.png" group-title="高清广州",广州综合 4
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="高清广州",广东体育 HD 1
+http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="高清广州",广东体育 HD 2
+http://fxhack.f3322.org:8000/udp/239.77.0.112:5146?世界杯WorldCup
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="高清广州",广东体育 HD 3
+http://fxhack.f3322.org:8000/udp/239.77.0.168:5146?世界杯WorldCup
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="高清广州",广东体育 HD 4
+http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="高清广州",广东体育 HD 5
+http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="高清广州",广东体育 HD 6
+http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="高清广州",广东体育 7
+http://113.117.74.17:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="高清广州",广东珠江 HD 1
+http://fxhack.f3322.org:8000/udp/239.77.0.01:5146#http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="高清广州",广东珠江 HD 2
+http://fxhack.f3322.org:8000/udp/239.77.0.01:5146%23http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="高清广州",广东珠江 HD 3
+http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="高清广州",广东珠江 HD 4
+http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="高清广州",广东珠江 5
+http://9.zhxinda.xyz/gdtv.php?pk=1183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清广州",广州塔与海心桥视角
+http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",TVB翡翠台 1
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",TVB翡翠台 2
+http://radius.8866.org:800/hls/80/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",TVB翡翠台 3
+http://23.237.10.66:16106
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",TVB翡翠台 4
+http://23.237.10.66:16410
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",TVB翡翠台 5
+http://2022.stream-link.org/playlist/tvb_jade
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",TVB翡翠台 6
+http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",TVB明珠台 1
+http://radius.8866.org:800/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",TVB明珠台 2
+http://shazui.8866.org:800/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港",TVB财经体育资讯台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",TVB无线新闻台 1
+http://2022.stream-link.org/playlist/tvb_news
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",TVB无线新闻台 2
+https://tvp22.sky4k.top/index1.php
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",TVB无线新闻台 3
+http://9.zhxinda.xyz/newss.php?id=1&checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",有线新闻台 1
+http://2022.stream-link.org/playlist/cable_news
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",有线新闻台 2
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",有线新闻台 3
+http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",有线新闻台 4
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",有线新闻台 5
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",有线新闻台 6
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="香港",有线财经资讯台 1
+http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="香港",有线财经资讯台 2
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",HoyTV开电视
+https://cdn.hklive.tv/xxxx/77/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="香港",港台电视31-铿锵集
+https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2021/THKCCT2021M06000048.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="香港",港台电视31 1
+http://2022.stream-link.org/playlist/rthk_31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="香港",港台电视31 2
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="香港",港台电视31 3
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg" group-title="香港",港台电视32 1
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg" group-title="香港",港台电视32 2
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8?WithCaption
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg" group-title="香港",港台电视32 3
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台湾",台视新闻台HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民视新闻台HD 1
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民视新闻台HD 2
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视HD
+http://23.237.10.66:16344
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视HD
+http://23.237.10.66:16334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",大立台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",红牛极限运动 1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",红牛极限运动 2
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",红牛极限运动 3
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",红牛极限运动 4
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
